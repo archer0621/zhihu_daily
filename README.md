@@ -41,5 +41,5 @@
 
 ##### ⚡ ` npm install` || `yarn `
 
-##### ⚡`npm run start` || `yarn start`
+##### ⚡ `npm run start` || `yarn start`
 
